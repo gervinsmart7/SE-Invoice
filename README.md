@@ -2,8 +2,8 @@
 
 A lightweight Progressive Web App (PWA) for creating invoices and receipts. It stores records in this browser on this device, supports backup/restore, uses an A4 print stylesheet, and can be added to a phone's home screen.
 
+accessible via https://dreamy-tapioca-2e4b5e.netlify.app/
 ## Run locally on a computer
-
 PWAs require `localhost` or HTTPS for service workers and installation. From this folder, run a local web server, for example:
 
 ```bash
