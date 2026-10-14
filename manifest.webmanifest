@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "SE Invoice — Invoice & Receipt Maker",
+  "short_name": "SE Invoice",
+  "description": "Create and manage invoices and receipts offline.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f8f6",
+  "theme_color": "#153e35",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
